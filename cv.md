@@ -30,6 +30,8 @@ function count (string) {
 ```
 
 ## Experience
+* [2048 game on JS](https://2048-js-game.surge.sh/ "View demo")
+* [Battleships](https://battleships-js.surge.sh/ "View demo")
 
 ## Education
 * University: BSUIR
